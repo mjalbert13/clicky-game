@@ -1,10 +1,10 @@
 import React from 'react';
 
-const Header = () => (
+const Header = props => (
     <div className = "jumbotron jumbotron-fluid">
         <div className = "container">
-            <h1 className = "display-4">The Click Game</h1>
-            <p className = "lead">Click to play</p>
+            <h1 className = "display-4">Game of Clicks</h1>
+            <p className = "lead score">Score: {props.score}  ||  High Score: {props.highScore}</p>
         </div>
     </div>
 );
