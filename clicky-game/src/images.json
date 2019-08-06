@@ -2,61 +2,61 @@
     {
         "id":1,
         "image":"https://timedotcom.files.wordpress.com/2016/04/jon-snow-game-of-thrones.jpeg",
-        "clicked": false
+        "count": 0
     },
     {
         "id":2,
         "image":"https://pmchollywoodlife.files.wordpress.com/2014/04/game-of-thrones-arya-stark-amanda-says-ftr.jpg?w=600",
-        "clicked": false
+        "count": 0
     },
     {
         "id":3,
         "image":"https://vignette.wikia.nocookie.net/gameofthrones/images/3/34/Eddard_Stark.jpg/revision/latest?cb=20190701140812",
-        "clicked": false
+        "count": 0
     },
     {
         "id":4,
         "image":"https://www.thewrap.com/wp-content/uploads/2016/04/bran-stark-1.jpg",
-        "clicked": false
+        "count": 0
     },
     {
         "id":5,
         "image":"https://vignette.wikia.nocookie.net/gameofthrones/images/5/50/S3E9_Robb_Stark_main.jpg/revision/latest?cb=20160718071203",
-        "clicked": false
+        "count": 0
     },
     {
         "id":6,
         "image":"https://fsmedia.imgix.net/d7/2b/c5/a1/7817/40bf/bb26/473504b86ea4/sansa-stark-game-of-thrones.jpeg?crop=edges&fit=crop&auto=compress&h=1200&w=1200",
-        "clicked": false
+        "clicked": 0
     },
     {
         "id":7,
         "image":"https://amp.businessinsider.com/images/574f0ff8dd089538058b4791-750-563.png",
-        "clicked": false
+        "count": 0
     },
     {
         "id":8,
         "image":"https://vignette.wikia.nocookie.net/gameofthrones/images/d/d9/Battle_of_the_Bastards_42.jpg/revision/latest?cb=20160621185459",
-        "clicked": false
+        "count": 0
     },
     {
         "id":9,
         "image":"http://assets.viewers-guide.hbo.com/large59b6b6d664aed@2x.jpg",
-        "clicked": false
+        "count": 0
     },
     {
         "id":10,
         "image":"https://vignette.wikia.nocookie.net/gameofthrones/images/7/78/TheonS8E1.PNG/revision/latest/scale-to-width-down/314?cb=20190415192721",
-        "clicked": false
+        "count": 0
     },
     {
         "id":11,
         "image":"https://www.telegraph.co.uk/content/dam/tv/2016/05/30/coldhands_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=480",
-        "clicked": false
+        "count": 0
     },
     {
         "id":12,
         "image":"https://vignette.wikia.nocookie.net/gameofthrones/images/e/eb/Vlcsnap-2016-05-23-02h18m09s851.png/revision/latest?cb=20160523052104",
-        "clicked": false
+        "count": 0
     }
 ]
