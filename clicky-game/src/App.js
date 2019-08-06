@@ -1,5 +1,4 @@
 import React, {Component}  from 'react';
-import logo, { ReactComponent } from './logo.svg';
 import Header from './components/Header'
 import Footer from './components/Footer'
 import ImageCard from "./components/ImageCard"
