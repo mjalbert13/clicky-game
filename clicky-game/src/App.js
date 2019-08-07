@@ -47,6 +47,7 @@ class App extends Component {
 
   render() {
     return (
+      <div className="container"> 
       <Container>
         <Header score={this.state.score} highScore={this.state.highScore}></Header> 
         {this.state.cards.map(card => (
@@ -59,6 +60,7 @@ class App extends Component {
         ))}
         <Footer/>
       </Container>
+      </div>
     )
   }
 
