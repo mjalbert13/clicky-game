@@ -23,10 +23,10 @@ class App extends Component {
     this.state.cards.forEach(cards => {
       cards.count =0;
     });
-    alert('Game Over!  \nscore :'+ this.state.score);
+    alert('Game Over!  \nScore: '+ this.state.score);
     this.setState({score: 0});
     return true
-  }
+  };
 
   handleClickCount = id => {
     this.state.cards.find((data,i) => {
@@ -43,7 +43,7 @@ class App extends Component {
         }
       }
     });
-  }
+  };
 
   render() {
     return (
@@ -62,8 +62,7 @@ class App extends Component {
       </Container>
       </div>
     )
-  }
-
-}
+  };
+};
 
 export default App;
