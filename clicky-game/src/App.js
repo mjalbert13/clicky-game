@@ -1,8 +1,8 @@
 import React, {Component}  from 'react';
-import Header from './components/Header'
-import Footer from './components/Footer'
-import ImageCard from "./components/ImageCard"
-import Container from './components/Container'
+import Header from './components/Header/Header'
+import Footer from './components/Footer/Footer'
+import ImageCard from "./components/ImageCard/ImageCard"
+import Container from './components/Container/Container'
 import cards from './images.json'
 
 import './App.css';

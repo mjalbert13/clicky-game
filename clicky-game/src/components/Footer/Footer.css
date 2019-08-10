@@ -5,10 +5,19 @@
 
 li {
     list-style: none;
-    align-content: center;
-    display: inline;
+    display: inline-block;
+    
 }
 
 .item {
     text-align: center;
+    justify-content: left;
+}
+
+.item2 {
+    justify-content: center;
+}
+
+.item3 {
+    justify-content: right;
 }

@@ -6,8 +6,8 @@ const Footer = () => (
         <div className= "bottom">
             <ul className= "footer-list">
                 <li><span className="item">Clicky-Game</span></li>
-                <li> <span className="item">copyright 2019 (c)</span></li>
-                <li> <span className="item">Github</span></li>
+                <li> <span className="item2">copyright 2019 (c)</span></li>
+                <li> <span className="item3">Github</span></li>
             </ul>
         </div>
     </footer>
