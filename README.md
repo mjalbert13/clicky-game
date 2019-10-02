@@ -2,7 +2,7 @@
 A memory game utilizing react
 
 ## Installation:
--Git Clone to download
+- Git Clone to download
 - npm install dependencies
 
 ## Usage
